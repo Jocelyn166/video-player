@@ -1,26 +1,23 @@
-# video-player
+# Video Player
 
-In this project, I created my own custom video player and be able to control the functionality 
-through my own custom UI.
+## Description
+In this project, I created my custom video player and was able to control the functionality through my custom UI.
 
-Main Features:
+## Main Features
 
-1.Play and Pause through the button as well as click on the button.
+1. **Play and Pause**: Through the button as well as clicking on the video.
+2. **Mute and Unmute**: Additionally, we can drag the volume to different levels.
+3. **Dynamic Progress Bar**: We can jump around in the video.
+4. **Tracking Time**: Monitoring the current time of the video as well as the total duration.
+5. **Change Playback Speed**: Adjust the speed of video playback.
+6. **Fullscreen Mode**: Enter and exit fullscreen mode.
+7. **Cross-Browser Compatibility**: Works in different browsers.
 
-2.Mute and unmute as well as we can drag the volume to different levels.
+## Completed Application Screenshots
 
-3.Dynamic progress bar, we can jump around in the video.
+<p float="left">
+  <img src="https://github.com/Jocelyn166/video-player/blob/cd1c462cd4537ecb8337681ba95f0095821f3854/images/Screen%20Shot%202024-02-27%20at%2015.53.16.png?raw=true" width="200" />
+</p>
 
-4.Tracking the current time of the video as well as the total duration.
-
-5.Change the playback speed.
-
-6.Fullscreen or exit fullscreen.
-
-7.Work in different browsers.
-
-
-
-So that's pretty much it for the functionality of this project.
-
-Hope you enjoy the project too!
+## Built With
+- Javascript
